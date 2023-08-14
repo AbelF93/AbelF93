@@ -20,7 +20,7 @@ Recently started to form myself into Web Development, mostly interested in **_Fr
   STYLING:
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,sass,svelte,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,sass,svelte,bootstrap" />
   </a>
 </p>
 
