@@ -18,10 +18,23 @@ Recently started to form myself into Web Development, mostly interested in **_Fr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,sass,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,sass,svelte,tailwinds,bootstrap" />
   </a>
-  and it's not over yet...
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  and it's not over yet...
+<p/>
+  
 <iframe src="https://giphy.com/embed/HwBlFQZFcAoUcPHZdX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX">via GIPHY</a></p>
 
