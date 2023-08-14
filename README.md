@@ -17,14 +17,18 @@ Recently started to form myself into Web Development, mostly interested in **_Fr
 ## ACQUIRING TECHNOLOGIES...
 
 <p align="center">
+  STYLING:
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,sass,svelte,tailwinds,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,sass,svelte,tailwind,bootstrap" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
+  INTERACTIVITY:
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react" />
   </a>
