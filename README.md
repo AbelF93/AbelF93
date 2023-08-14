@@ -1,16 +1,20 @@
-### Hi there 👋
+# **FORTUNATI ABEL**, That is my **NAME** 💥🕶️:
 
-<!--
-**AbelF93/AbelF93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+>Hi, __BIG FAN__ of:
+- Graphic Design 🖌️
+- Movies 🎞️
+- Books 📖
+- Games 🎲🎮
+- Pop Culture 🌈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>STATUS:
+
+Recently started to form myself into Web Development, mostly interested in **_Front-End development_**. Curious of nature, maybe i'll push it through **_Full Stack_**! 🤔🧠🥯
+
+---
+## ACQUIRING TECHNOLOGIES...
+<div id='hearder' align='center'>
+<iframe src="https://giphy.com/embed/HwBlFQZFcAoUcPHZdX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX">via GIPHY</a></p>
+</div>
