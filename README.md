@@ -40,5 +40,5 @@ Recently started to form myself into Web Development, mostly interested in **_Fr
   and it's not over yet...
 <p/>
   
-<iframe src="https://giphy.com/embed/HwBlFQZFcAoUcPHZdX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX">via GIPHY</a></p>
+
 
